@@ -1,0 +1,18 @@
+//drop downs
+<select>
+<option value="booking.php">Booking</option>
+<option value="garage.php">Garage</option>
+<option value="service.php">Service</option>
+<option value="vehicle.php">Vehicle</option>
+</select>
+-------------
+<td><input type ="int" name = "vehicle_id" placeholder = "Enter vehicle_id"></td>
+------------
+ <input type ="submit" name = "submit" value = "Submit" />
+-------------------
+ <a href="booking.php">Booking</a> 
+ <a href="garage.php">Garage</a> 
+ <a href="service.php">Service</a> 
+ <a href="vehicle.php">Vehicle</a> 
+----------------------
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
